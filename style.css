@@ -1,0 +1,25 @@
+input{
+    width: 150px;
+    height: 100px;
+    background-color:black ;
+    color: white;
+    border-radius: 10px;
+    margin:10px;
+    font-size: 75px;
+    border-style: none;
+    cursor: pointer;
+}
+
+#myform{
+  margin-left:225px;
+  margin-top:20px;  
+  margin-right: 600px;
+  /*border: medium solid coral;*/
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    margin-right:510px;
+    margin-top: 20px;
+}
